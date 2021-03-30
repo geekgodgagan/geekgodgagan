@@ -5,7 +5,7 @@
 - 📫 How to reach me: Twitter - [@ImGaganIAF](https://twitter.com/ImGaganIAF)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday. <br>
-<img align=right src="https://user-images.githubusercontent.com/69913088/111898167-6a443500-8a4a-11eb-882d-b14b464c107f.gif" />
+<img align=right src="https://user-images.githubusercontent.com/69913088/113027377-9c226d80-91a7-11eb-9ebc-45781e561df6.gif" height="300" width="300" />
 
 <img src= "https://github-readme-stats.vercel.app/api?username=geekgodgagan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" >
 
